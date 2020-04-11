@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papelería KON-TIKI</title>
-    <link>http://example.org/</link>
+    <link>https://papeleriakon-tiki.github.io/</link>
     <description>Recent content on Papelería KON-TIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 01 Apr 2020 10:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://papeleriakon-tiki.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contáctenos</title>
-      <link>http://example.org/contact/</link>
+      <link>https://papeleriakon-tiki.github.io/contact/</link>
       <pubDate>Wed, 01 Apr 2020 10:00:00 +0100</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://papeleriakon-tiki.github.io/contact/</guid>
       <description>Teléfono: 952 77 04 50
 Email: info@papeleriakon-tiki.com
 Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbella
@@ -25,19 +25,19 @@ Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbel
     
     <item>
       <title>Gracias por contactarnos</title>
-      <link>http://example.org/contact_thanks/</link>
+      <link>https://papeleriakon-tiki.github.io/contact_thanks/</link>
       <pubDate>Wed, 01 Apr 2020 10:00:00 +0100</pubDate>
       
-      <guid>http://example.org/contact_thanks/</guid>
+      <guid>https://papeleriakon-tiki.github.io/contact_thanks/</guid>
       <description>Gracias por su mensaje, le contactaremos en breve.</description>
     </item>
     
     <item>
       <title>Acerca de</title>
-      <link>http://example.org/about/</link>
+      <link>https://papeleriakon-tiki.github.io/about/</link>
       <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://papeleriakon-tiki.github.io/about/</guid>
       <description>Somos una empresa familiar puesta en marcha en 2003 dedicada al suministro integral de material de oficina, bellas artes, informática, material escolar, libros de texto, accesorios de sobremesa, mobiliario y un sin fin de artículos catalogados.
 Nuestro saber hacer y profesionalidad hacen que el mejorar la calidad de nuestro servicio y material sea nuestro principal objetivo.
 ¿Cómo contactar con nosotros? Teléfono: 952 77 04 50
@@ -47,19 +47,19 @@ Esperamos su visita en Plaza Ramón Martínez Local 7D frente al Teatro Municipa
     
     <item>
       <title></title>
-      <link>http://example.org/bellas-artes/</link>
+      <link>https://papeleriakon-tiki.github.io/bellas-artes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/bellas-artes/</guid>
+      <guid>https://papeleriakon-tiki.github.io/bellas-artes/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/libros/</link>
+      <link>https://papeleriakon-tiki.github.io/libros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/libros/</guid>
+      <guid>https://papeleriakon-tiki.github.io/libros/</guid>
       <description></description>
     </item>
     

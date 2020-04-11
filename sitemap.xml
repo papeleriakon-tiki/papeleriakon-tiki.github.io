@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://papeleriakon-tiki.github.io/</loc>
     <lastmod>2020-04-01T10:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://papeleriakon-tiki.github.io/contact/</loc>
     <lastmod>2020-04-01T10:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact_thanks/</loc>
+    <loc>https://papeleriakon-tiki.github.io/contact_thanks/</loc>
     <lastmod>2020-04-01T10:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://papeleriakon-tiki.github.io/about/</loc>
     <lastmod>2018-04-30T10:05:49+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/bellas-artes/</loc>
+    <loc>https://papeleriakon-tiki.github.io/bellas-artes/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/libros/</loc>
+    <loc>https://papeleriakon-tiki.github.io/libros/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/material-oficina/</loc>
+    <loc>https://papeleriakon-tiki.github.io/material-oficina/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/material/</loc>
+    <loc>https://papeleriakon-tiki.github.io/material/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/preachers/</loc>
+    <loc>https://papeleriakon-tiki.github.io/preachers/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://papeleriakon-tiki.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://papeleriakon-tiki.github.io/tags/</loc>
   </url>
   
 </urlset>
