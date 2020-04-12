@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://papeleriakon-tiki.github.io/about/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://papeleriakon-tiki.github.io/bellas-artes/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://papeleriakon-tiki.github.io/contact/</loc>
     <lastmod>2020-04-01T10:00:00+01:00</lastmod>
   </url>
@@ -18,32 +28,43 @@
   </url>
   
   <url>
-    <loc>https://papeleriakon-tiki.github.io/about/</loc>
-    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://papeleriakon-tiki.github.io/bellas-artes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://papeleriakon-tiki.github.io/libros/</loc>
-    <priority>0</priority>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://papeleriakon-tiki.github.io/tags/manualidades/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://papeleriakon-tiki.github.io/material/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://papeleriakon-tiki.github.io/posts/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://papeleriakon-tiki.github.io/tags/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://papeleriakon-tiki.github.io/tags/tutorial/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://papeleriakon-tiki.github.io/posts/tecnicas_pintura/</loc>
+    <lastmod>2020-04-01T10:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://papeleriakon-tiki.github.io/material-oficina/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://papeleriakon-tiki.github.io/material/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://papeleriakon-tiki.github.io/tags/</loc>
   </url>
   
 </urlset>

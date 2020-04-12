@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Papelería KON-TIKI</title>
+    <link>https://papeleriakon-tiki.github.io/posts/</link>
+    <description>Recent content in Posts on Papelería KON-TIKI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 01 Apr 2020 10:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://papeleriakon-tiki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Técnicas de pintura</title>
+      <link>https://papeleriakon-tiki.github.io/posts/tecnicas_pintura/</link>
+      <pubDate>Wed, 01 Apr 2020 10:00:00 +0100</pubDate>
+      
+      <guid>https://papeleriakon-tiki.github.io/posts/tecnicas_pintura/</guid>
+      <description>El concepto de pintura El término pintura procede del latín “pigmenta”, que se traduce por tinte o pigmento. Más allá de eso, el concepto de pintura puede hacer referencia a varias cosas:
+ La pintura es el arte que usa pigmentos para hacer representaciones gráficas. El resultado de esas representaciones también se llama pinturas. La pintura es el fluido que se aplica en capas delgadas sobre una superficie y, al secarse, se convierte en una película que la recubre.</description>
+    </item>
+    
+  </channel>
+</rss>

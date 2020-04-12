@@ -12,6 +12,30 @@
     
     
     <item>
+      <title>Acerca de</title>
+      <link>https://papeleriakon-tiki.github.io/about/</link>
+      <pubDate>Wed, 01 Apr 2020 10:00:00 +0100</pubDate>
+      
+      <guid>https://papeleriakon-tiki.github.io/about/</guid>
+      <description>Somos una empresa familiar puesta en marcha en 2003 dedicada al suministro integral de material de oficina, bellas artes, informática, material escolar, libros de texto, accesorios de sobremesa, mobiliario y un sin fin de artículos catalogados.
+Nuestro saber hacer y profesionalidad hacen que el mejorar la calidad de nuestro servicio y material sea nuestro principal objetivo.
+¿Cómo contactar con nosotros? Teléfono: 952 77 04 50
+Email: info@papeleriakon-tiki.com
+Esperamos su visita en Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbella (Málaga).</description>
+    </item>
+    
+    <item>
+      <title>Bellas Artes y Manualidades</title>
+      <link>https://papeleriakon-tiki.github.io/bellas-artes/</link>
+      <pubDate>Wed, 01 Apr 2020 10:00:00 +0100</pubDate>
+      
+      <guid>https://papeleriakon-tiki.github.io/bellas-artes/</guid>
+      <description>30 años de experiencia al servicio de los artistas del área de Marbella, para artistas profesionales y aficionados trabajamos las principales marcas del sector, técnicas clásicas y las más nuevas.
+Óleo, acrílico, pincelería, stencils, cristal, decoupage, marmolina, fofuchas, materiales infantiles, y un sinfín de produtos te esperan en nuestras inslaciones.
+¿Busca usted materiales o ideas para realizar manualidades? ¡Visitenós! saldrá de nuestro local con nuevas ideas y todo lo necesario para expandir su creatividad.</description>
+    </item>
+    
+    <item>
       <title>Contáctenos</title>
       <link>https://papeleriakon-tiki.github.io/contact/</link>
       <pubDate>Wed, 01 Apr 2020 10:00:00 +0100</pubDate>
@@ -33,34 +57,13 @@ Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbel
     </item>
     
     <item>
-      <title>Acerca de</title>
-      <link>https://papeleriakon-tiki.github.io/about/</link>
-      <pubDate>Mon, 30 Apr 2018 10:05:49 +1000</pubDate>
-      
-      <guid>https://papeleriakon-tiki.github.io/about/</guid>
-      <description>Somos una empresa familiar puesta en marcha en 2003 dedicada al suministro integral de material de oficina, bellas artes, informática, material escolar, libros de texto, accesorios de sobremesa, mobiliario y un sin fin de artículos catalogados.
-Nuestro saber hacer y profesionalidad hacen que el mejorar la calidad de nuestro servicio y material sea nuestro principal objetivo.
-¿Cómo contactar con nosotros? Teléfono: 952 77 04 50
-Email: info@papeleriakon-tiki.com
-Esperamos su visita en Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbella (Málaga).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://papeleriakon-tiki.github.io/bellas-artes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://papeleriakon-tiki.github.io/bellas-artes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Libros</title>
       <link>https://papeleriakon-tiki.github.io/libros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 10:00:00 +0100</pubDate>
       
       <guid>https://papeleriakon-tiki.github.io/libros/</guid>
-      <description></description>
+      <description>Lector/a, ¿Estás buscando algún libro? LLámanos podemos encontrarlo para ti, trabajamos todas la editoriales con entrega rápida.
+Contamos con una campaña especial de Vuelta a cole que iniciamos justo cuando acaba el curso, mediante la cual podrá despreocuparse completamente del inicio del curso siguiente, nosotros nos encargamos de sus libros de texto que tendrá disponibles para Septiembre. Si es usted beneficiario/a de un Cheque-Libro de la Junta de Andalucía nosotros nos encargamos de todo, visitenos.</description>
     </item>
     
   </channel>
