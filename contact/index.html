@@ -11,7 +11,7 @@
 <meta property="og:description" content="Teléfono: 952 77 04 50
 Email: info@papeleriakon-tiki.com
 Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbella
-" />
+" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://papeleriakon-tiki.github.io/contact/" />
 <meta property="og:image" content="https://papeleriakon-tiki.github.io/img/img4.jpg" />
@@ -25,7 +25,7 @@ Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbel
 <meta name="twitter:description" content="Teléfono: 952 77 04 50
 Email: info@papeleriakon-tiki.com
 Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbella
-"/>
+"/>
 
 		<link rel="stylesheet" href="https://papeleriakon-tiki.github.io/fontawesome/css/all.min.css" /><link rel="stylesheet" href="//cdn.plyr.io/3.5.0/plyr.css" integrity="sha384-isCW9H/FX+mXAJvva5Cxo7XA8tMO2oa0DLqamf2c0HcNVRpvWd9CoXBZv5mWYswz" crossorigin="anonymous"><!--[if lte IE 8]><script src="/js/ie/html5shiv.min.js"></script><link rel="stylesheet" href="/scss/ie8.min.css" /><![endif]-->
 		
@@ -95,26 +95,24 @@ Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbel
 <p>Dirección: Plaza Ramón Martínez Local 7D frente al Teatro Municipal de Marbella</p>
 
 
-	<form name="contact" method="POST" action="/contact_thanks" netlify>
-		<div class="row gtr-50 gtr-uniform">
-			<div class="col-6 col-12-mobilep">
-	    		<input type="text" name="name" aria-label="Su nombre" placeholder="Su nombre">
-	  		</div>
-			<div class="col-6 col-12-mobilep">
-	    		<input type="email" name="email" aria-label="Su dirección e-mail" placeholder = "Su dirección e-mail">
-	  		</div>
-			<div class="col-12">
-				<textarea name="message" aria-label="Su mensaje" placeholder="Su mensaje" rows="6"></textarea>
+		<form method="POST" action="https://formspree.io/f/mjvpoend">
+			<div class="row gtr-50 gtr-uniform">
+				<div class="col-6 col-12-mobilep">
+					<input type="text" name="name" id="name" value="" aria-label="Su nombre" placeholder="Su nombre" />
+				</div>
+				<div class="col-6 col-12-mobilep">
+					<input type="email" name="_replyto" id="email" value="" aria-label="Su dirección e-mail" placeholder="Su dirección e-mail" />
+				</div>
+				<div class="col-12">
+					<textarea name="message" id="message" aria-label="Su mensaje" placeholder="Su mensaje" rows="6"></textarea>
+				</div>
+				<div class="col-12">
+					<ul class="actions special">
+						<li><input type="submit" value="Enviar" /></li>
+					</ul>
+				</div>
 			</div>
-			<div class="col-12">
-				<ul class="actions special">
-	  				<li>
-						<input type="submit" value="Enviar" />
-					</li>
-				</ul>
-			</div>
-		</div>
-	</form>
+		</form>
 
 
 

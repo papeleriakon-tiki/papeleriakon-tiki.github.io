@@ -89,8 +89,8 @@
 					<section class="box special">
 						<header class="major">
 							<h2>Dónde estamos</h2><a name="services"></a>
-							<p>Telefóno: 952 77 04 50 | Email: <a href="mailto:info@papeleriakon-tiki.com">info@papeleriakon-tiki.com</a><br>
-Horario 08:45 - 14:00 y 17:00 - 20:30 en <a href="https://www.openstreetmap.org/#map=19/36.51004/-4.87895">Plaza Ramón Martinez Local 7D (Marbella)</a>.</p>
+							<p>Teléfono: 952 77 04 50 | Email: <a href="mailto:info@papeleriakon-tiki.com">info@papeleriakon-tiki.com</a><br>
+Horario 09:00 - 14:00 y 17:00 - 20:30 en <a href="https://www.openstreetmap.org/#map=19/36.51004/-4.87895">Plaza Ramón Martinez Local 7D (Marbella)</a>.</p>
 						</header>
 						
   <div id="map" class="box"></div>
@@ -179,26 +179,24 @@ Horario 08:45 - 14:00 y 17:00 - 20:30 en <a href="https://www.openstreetmap.org/
 					<p>Estamos a su disposición</p>
 					
 
-	<form name="contact" method="POST" action="/contact_thanks" netlify>
-		<div class="row gtr-50 gtr-uniform">
-			<div class="col-6 col-12-mobilep">
-	    		<input type="text" name="name" aria-label="Su nombre" placeholder="Su nombre">
-	  		</div>
-			<div class="col-6 col-12-mobilep">
-	    		<input type="email" name="email" aria-label="Su dirección e-mail" placeholder = "Su dirección e-mail">
-	  		</div>
-			<div class="col-12">
-				<textarea name="message" aria-label="Su mensaje" placeholder="Su mensaje" rows="6"></textarea>
+		<form method="POST" action="https://formspree.io/f/mjvpoend">
+			<div class="row gtr-50 gtr-uniform">
+				<div class="col-6 col-12-mobilep">
+					<input type="text" name="name" id="name" value="" aria-label="Su nombre" placeholder="Su nombre" />
+				</div>
+				<div class="col-6 col-12-mobilep">
+					<input type="email" name="_replyto" id="email" value="" aria-label="Su dirección e-mail" placeholder="Su dirección e-mail" />
+				</div>
+				<div class="col-12">
+					<textarea name="message" id="message" aria-label="Su mensaje" placeholder="Su mensaje" rows="6"></textarea>
+				</div>
+				<div class="col-12">
+					<ul class="actions special">
+						<li><input type="submit" value="Enviar" /></li>
+					</ul>
+				</div>
 			</div>
-			<div class="col-12">
-				<ul class="actions special">
-	  				<li>
-						<input type="submit" value="Enviar" />
-					</li>
-				</ul>
-			</div>
-		</div>
-	</form>
+		</form>
 
 
 
